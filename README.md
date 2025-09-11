@@ -10,11 +10,11 @@
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
 Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
-
+<!--
 - 📱 Ask me about: **Android, Flutter, Dart**
 - 📫 How to reach me: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
 - 🌍 Based in: Yemen
-
+-->
 ---
 
 ### 🌐 Connect with Me
