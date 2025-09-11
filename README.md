@@ -5,16 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<!--<img align="right" alt="My Logo" src="https://github.com/Farea-YCC/Profile-data-not-important/blob/23cc0b7891ed7caa587ed0a09413bdc38bade079/my%20logo.jpg" width="300" />-->
+<img align="right" alt="My Logo" src="https://github.com/Farea-YCC/Profile-data-not-important/blob/23cc0b7891ed7caa587ed0a09413bdc38bade079/my%20logo.jpg" width="300" />
 
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
 Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
-<!--
+
 - 📱 Ask me about: **Android, Flutter, Dart**
 - 📫 How to reach me: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
 - 🌍 Based in: Yemen
--->
+
 ---
 
 ### 🌐 Connect with Me
