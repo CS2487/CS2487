@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
@@ -6,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="https://github.com/CS2487/CS2487/blob/main/logo.png" width="300" />
+<img align="right" alt="My Logo" src="https://github.com/CS2487/CS2487/raw/main/logo.png" width="300" />
 
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
@@ -42,7 +41,7 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 ### 📬 Contact Options
 <p align="center">
   <a href="https://linktr.ee/YCC2030">
-    <img alt="Linktree" src="https://github.com/Farea-YCC/Profiledata/blob/main/linktree.gif" width="40" />
+    <img alt="Linktree" src="https://github.com/Farea-YCC/Profiledata/raw/main/linktree.gif" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Farea-YCC">
@@ -66,7 +65,9 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 
 ### 🔥 GitHub Streak
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CS24-8-7" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=CS24-8-7" alt="GitHub Streak" />
+ </a>
 </p>
 
 ---
@@ -103,4 +104,4 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 
 ---
 
-<p align="center"> <em>Designed with Farea AL-Dhela’a💙 for GitHub</em> </p>
+<p align="center"> <em>Designed with 💙 by Farea AL-Dhela’a for GitHub</em> </p>
