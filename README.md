@@ -34,7 +34,7 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
->
+
 
 ---
 
