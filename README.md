@@ -1,5 +1,9 @@
 
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" 
+     alt="Example Image" 
+     style="max-width: 100%; display: inline-block;">
+
+
 <h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
