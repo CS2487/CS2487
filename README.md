@@ -9,9 +9,9 @@
 
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
-Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
+Currently focused on **Flutter**, **Android development**, and **Laravel**, I enjoy turning ideas into real-world solutions.
 
-- 📱 Ask me about: **Android, Flutter, Dart**
+- 📱 Ask me about: **Android, Flutter, Dart, Laravel, PHP**
 - 📫 How to reach me: [farea2487@gmail.com](mailto:farea2487@gmail.com)
 - 🌍 Based in: Yemen
 
