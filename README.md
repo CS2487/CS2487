@@ -1,11 +1,3 @@
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Programming_code.png" 
-     alt="Coding Image" 
-     style="max-width: 100%; display: inline-block;">
-
-
-
-
 <h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
@@ -13,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="https://raw.githubusercontent.com/CS2487/CS2487/main/mylogo/logo.png" width="300" />
+<img align="right" alt="My Logo" src="" width="300" />
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
 Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
 
 - 📱 Ask me about: **Android, Flutter, Dart**
-- 📫 How to reach me: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
+- 📫 How to reach me: [faraa717281413@gmail.com](mailto:farea2487@gmail.com)
 - 🌍 Based in: Yemen
 
 ---
