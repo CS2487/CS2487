@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="https://github.com/CS2487/CS2487/raw/main/logo.png" width="300" />
 <img align="right" alt="My Logo" src="https://raw.githubusercontent.com/CS2487/CS2487/main/logo.png" width="300" />
 
 ### 💬 About Me
