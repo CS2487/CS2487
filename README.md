@@ -72,7 +72,7 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 ### 🔥 GitHub Streak
 <p align="center">
  <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=CS24-8-7" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=cs2487" alt="GitHub Streak" />
  </a>
 </p>
 
