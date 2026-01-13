@@ -13,8 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="https://github.com/CS2487/CS2487/blob/main/mylogo/logo.png" width="300" />
-
+<img align="right" alt="My Logo" src="https://raw.githubusercontent.com/CS2487/CS2487/main/mylogo/logo.png" width="300" />
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
 Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
