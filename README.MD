@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Farea AL-Dhela’a</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+
+<h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
+<h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
