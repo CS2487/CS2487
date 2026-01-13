@@ -2,106 +2,93 @@
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+<img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="https://raw.githubusercontent.com/CS2487/CS2487/main/logo.png" width="300" />
 
-### 💬 About Me
-I'm a full-stack developer with a strong passion for building mobile and web applications.  
-Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
+<img align="right" alt="My Logo" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Farea-YCC/Profiledata/main/logo.png" width="200" onerror="this.src='https://www.google.com/search?q=https://img.icons8.com/clouds/200/000000/code.png'"/>
 
-- 📱 Ask me about: **Android, Flutter, Dart**
-- 📫 How to reach me: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
-- 🌍 Based in: Yemen
+💬 About Me
 
----
+I'm a full-stack developer with a strong passion for building mobile and web applications.
 
-### 🌐 Connect with Me
+Currently focused on Flutter and Android development, I enjoy turning ideas into real-world solutions.
+
+📱 Ask me about: Android, Flutter, Dart
+
+📫 How to reach me: faraa717281413@gmail.com
+
+🌍 Based in: Yemen
+
+🌐 Connect with Me
+
 <p align="center">
-  <a href="https://twitter.com/fareaaldhelaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/fareaaldhelaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/fareaaldhelaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/fareaaldhelaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/fareaaldhelaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<!-- استخدام أيقونات Simple Icons لأنها أكثر استقراراً ووضوحاً -->
+<a href="https://twitter.com/fareaaldhelaa" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
+</a>
+<a href="https://linkedin.com/in/fareaaldhelaa" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/fareaaldhelaa" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack_Overflow-FE7A16%3Fstyle%3Dfor-the-badge%26logo%3Dstack-overflow%26logoColor%3Dwhite" alt="Stack Overflow" />
+</a>
+<a href="https://fb.com/fareaaldhelaa" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook" />
+</a>
+<a href="https://instagram.com/fareaaldhelaa" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
----
+📬 Contact Options
 
-### 📬 Contact Options
 <p align="center">
-  <a href="https://linktr.ee/YCC2030">
-    <img alt="Linktree" src="https://github.com/Farea-YCC/Profiledata/raw/main/linktree.gif" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Farea-YCC">
-    <img alt="GitHub" src="https://img.icons8.com/clouds/100/000000/github.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wsend.co/967717281413">
-    <img alt="WhatsApp" src="https://img.icons8.com/clouds/100/000000/whatsapp.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/farea-al-dhela-a-9624b431a/">
-    <img alt="LinkedIn" src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:faraa717281413@gmail.com">
-    <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="40" />
-  </a>
+<a href="https://linktr.ee/YCC2030">
+<img alt="Linktree" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/linktree.png" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Farea-YCC">
+<img alt="GitHub" src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/github.png" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.google.com/search?q=https://wa.me/967717281413">
+<img alt="WhatsApp" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:faraa717281413@gmail.com">
+<img alt="Gmail" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
+</a>
 </p>
 
----
+🔥 GitHub Streak
 
-### 🔥 GitHub Streak
 <p align="center">
- <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=CS24-8-7" alt="GitHub Streak" />
- </a>
+<a href="https://git.io/streak-stats">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DCS24-8-7%26theme%3Dtokyonight" alt="GitHub Streak" />
+</a>
 </p>
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+🖥️ Frontend
 
-### 🖥️ Frontend
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" style="margin: 10px" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
 </div>
 
-### ⚙️ Backend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET Core" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px" />
-</div>
+⚙️ Backend
 
-### 🧰 Tools & Databases
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" style="margin: 10px" />
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 10px" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+<img src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/c-plus-plus--v1.png" alt="C++" />
 </div>
-
----
 
 <p align="center"> <em>Designed with 💙 by Farea AL-Dhela’a for GitHub</em> </p>
