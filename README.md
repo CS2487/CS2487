@@ -5,13 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<img align="right" alt="My Logo" src="" width="300" />
+
+
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
 Currently focused on **Flutter** and **Android development**, I enjoy turning ideas into real-world solutions.
 
 - 📱 Ask me about: **Android, Flutter, Dart**
-- 📫 How to reach me: [faraa717281413@gmail.com](mailto:farea2487@gmail.com)
+- 📫 How to reach me: [farea2487@gmail.com](mailto:farea2487@gmail.com)
 - 🌍 Based in: Yemen
 
 ---
@@ -56,7 +57,7 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
     <img alt="LinkedIn" src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:faraa717281413@gmail.com">
+  <a href="mailto:farea2487@gmail.com">
     <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="40" />
   </a>
 </p>
