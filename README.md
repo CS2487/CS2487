@@ -1,7 +1,8 @@
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" 
-     alt="Example Image" 
+<img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*5E5Y1r6zJmXHksq5i2_VwA.png" 
+     alt="Coding Image" 
      style="max-width: 100%; display: inline-block;">
+
 
 
 <h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
