@@ -62,7 +62,7 @@ Currently focused on **Flutter**, **Android development**, and **Laravel**, I en
 
 ### 📬 Contact Options
 <p align="center">
-  <a href="https://wa.me/967778222465"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png" width="50" /></a>
+  <a href="https://wa.me/967778222465"><img src="https://img.icons8.com/clouds/بشقثش/000000/whatsapp.png" width="50" /></a>
   <a href="mailto:farea2487@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="50" /></a>
   <a href="https://github.com/CS2487"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="50" /></a>
   <a href="https://www.linkedin.com/in/farea-aldhelaa/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="50" /></a>
