@@ -27,10 +27,10 @@ Currently focused on **Flutter**, **Android development**, and **Laravel**, I en
 
 ---
 
-### 🚀 GitHub Statistics
+### 🚀 Farea AL-Dhela'a Statistics 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CS2487&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&locale=en&theme=vision-friendly-dark&custom_title=Farea%20AL-Dhela'a%20Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -47,25 +47,15 @@ Currently focused on **Flutter**, **Android development**, and **Laravel**, I en
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Systems
 <p align="left">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 📬 Contact Options
-<p align="center">
-  <a href="https://wa.me/967778222465"><img src="https://img.icons8.com/clouds/بشقثش/000000/whatsapp.png" width="50" /></a>
-  <a href="mailto:farea2487@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="50" /></a>
-  <a href="https://github.com/CS2487"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="50" /></a>
-  <a href="https://www.linkedin.com/in/farea-aldhelaa/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="50" /></a>
-</p>
-
-<p align="center"> <em>Designed with 💙 by Farea AL-Dhela’a</em> </p>
+<p align="center"> <em>Designed with 💙 by Farea AL-Dhela'a</em> </p>
