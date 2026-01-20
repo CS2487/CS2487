@@ -65,11 +65,12 @@ Currently focused on **Flutter**, **Android development**, and **Laravel**, I en
 ---
 
 ### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CS2487" alt="GitHub Streak" />
+  <a href="https://github.com/CS2487">
+    <img src="https://streak-stats.demolab.com?user=CS2487&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
-
-
 
 
 ---
