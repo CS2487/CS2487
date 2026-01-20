@@ -1,5 +1,3 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 <h1 align="center">Hi 👋, I'm Farea Al Dhalaa</h1>
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
@@ -16,8 +14,12 @@
 ---
 
 ### 💬 About Me
-I'm a full-stack developer with a strong passion for building mobile and web applications.  
-I specialize in creating seamless user experiences using **Flutter** and robust backends with **Laravel**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CS2487/CS2487/main/mylogo/logo.png" width="150" alt="Farea Logo" />
+</p>
+
+I'm a full-stack developer with a strong passion for building mobile and web applications. I specialize in creating seamless user experiences using **Flutter** and robust backends with **Laravel**.
 
 - 🌐 **My Portfolio:** [cs2487.github.io](https://cs2487.github.io/)
 - 📱 **Tech Interests:** Android Development, Cross-platform Apps, API Design.
