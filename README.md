@@ -2,6 +2,12 @@
 <h3 align="center">Full Stack Developer | Flutter & Laravel</h3>
 
 <p align="center">
+  <a href="https://cs2487.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CS2487&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile-views" />
 </p>
 
@@ -9,11 +15,12 @@
 
 ### 💬 About Me
 I'm a full-stack developer with a strong passion for building mobile and web applications.  
-Currently focused on **Flutter**, **Android development**, and **Laravel**, I enjoy turning ideas into real-world solutions.
+I specialize in creating seamless user experiences using **Flutter** and robust backends with **Laravel**.
 
-- 📱 **Ask me about:** Android, Flutter, Dart, Laravel, PHP
-- 📫 **How to reach me:** [farea2487@gmail.com](mailto:farea2487@gmail.com)
-- 🌍 **Based in:** Yemen
+- 🌐 **My Portfolio:** [cs2487.github.io](https://cs2487.github.io/)
+- 📱 **Tech Interests:** Android Development, Cross-platform Apps, API Design.
+- 📫 **Contact Me:** [farea2487@gmail.com](mailto:farea2487@gmail.com)
+- 🌍 **Location:** Yemen
 
 ---
 
@@ -41,21 +48,27 @@ Currently focused on **Flutter**, **Android development**, and **Laravel**, I en
 
 ### 🛠️ Tech Stack
 
-#### 🖥️ Frontend & Mobile
+#### 📱 Mobile & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Systems
+#### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-<p align="center"> <em>Designed with 💙 by Farea AL-Dhela'a</em> </p>
+<p align="center"> 
+  <a href="https://cs2487.github.io/">✨ Check out my Portfolio Website ✨</a> 
+  <br><br>
+  <em>Designed with 💙 by Farea AL-Dhela'a</em> 
+</p>
