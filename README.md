@@ -68,8 +68,7 @@ I specialize in creating seamless user experiences using **Flutter** and robust 
 
 
 <p align="center"> 
-  <a href="https://cs2487.github.io/">✨ Check out my Portfolio Website ✨</a> 
-  <br><br>
+
   <em>Designed with 💙 by Farea AL-Dhela'a</em> 
 </p>
 
