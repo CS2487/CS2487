@@ -68,6 +68,5 @@ I specialize in creating seamless user experiences using **Flutter** and robust 
 
 <p align="center"> 
   
-  <br><br>
   <em>Designed with 💙 by Farea AL-Dhela'a</em> 
 </p>
