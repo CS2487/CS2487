@@ -42,9 +42,6 @@ I specialize in creating seamless user experiences using **Flutter** and robust 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&locale=en&theme=vision-friendly-dark&custom_title=Farea%20AL-Dhela'a%20Stats" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=CS2487&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
