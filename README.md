@@ -36,12 +36,7 @@
 
 ---
 
-## 📈 Extra Metrics (مثل الصورة 🔥)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CS2487&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CS2487&theme=tokyonight&utcOffset=3" width="45%" />
-</p>
 
 ---
 
