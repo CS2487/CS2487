@@ -14,7 +14,14 @@
 </p>
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&theme=vision-friendly-dark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS2487&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** passionate about building scalable, high-performance applications.
@@ -40,14 +47,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&theme=vision-friendly-dark" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS2487&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
 
 ## 🛠 Tech Stack
 
