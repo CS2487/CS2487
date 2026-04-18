@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Header" width="100%" />
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0E75B6">Farea Al-Dhela'a</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | Flutter & Laravel</h3>
@@ -14,14 +14,37 @@
 </p>
 
 ---
-## 📊 GitHub Statistics
+
+## 📊 Advanced GitHub Statistics 🚀
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&theme=vision-friendly-dark" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS2487&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CS2487&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS2487&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CS2487&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CS2487&theme=tokyonight" width="95%" />
+</p>
+
+---
+
+## 📈 Extra Metrics (مثل الصورة 🔥)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CS2487&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CS2487&theme=tokyonight&utcOffset=3" width="45%" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** passionate about building scalable, high-performance applications.
@@ -46,8 +69,6 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 </p>
 
 ---
-
-
 
 ## 🛠 Tech Stack
 
